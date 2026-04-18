@@ -1,0 +1,7 @@
+task2/t2-2/node_modules
+task2/t2-2/dist
+task2/t2-2/*.env
+task2/t2-2/*.pem
+task2/t2-3/node_modules
+task2/t2-3/dist
+task2/t2-3/*.env
