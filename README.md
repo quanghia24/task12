@@ -1,3 +1,6 @@
+# Nghia-Truong
+Task 1 + Task 2
+
 task1: Javascript problems
 task2:
 - t2-1: Show MongoDB table and dummy data
